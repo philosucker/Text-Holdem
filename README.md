@@ -89,7 +89,7 @@
 - Completed final design of Lobby scene.  
   
 12.04.2024  
-Fully mastered the rules of casino.  
+- Fully mastered the rules of casino.  
   
 11.04.2024  
 - Started learning the rules of casino.  
