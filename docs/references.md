@@ -60,9 +60,9 @@
 4. [파이썬 비동기 라이브러리 Asyncio](https://product.kyobobook.co.kr/detail/S000001810381)
 
 5. 기타 구글링  
-Multi Processing, Multi Threading,
-Concurrency Programming, Asynchronous Programming,
-Network(HTTP, WebSocket, RabbitMQ),
+Multi Processing, Multi Threading,  
+Concurrency Programming, Asynchronous Programming,  
+Network(HTTP, WebSocket, RabbitMQ),  
 Dastabase(MySQL, MongoDB)  
 
 ### Architecture
