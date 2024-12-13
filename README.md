@@ -73,7 +73,7 @@
 
 
 12.13.2024  
-- Completed establishing text_holdem house operating rules.  
+- Completed establishing text_holdem house_2.0 operating detailed rules.  
 - Completed making implementation rules.  
 - Completed final design of Table scene.  
 - Completed final design of Lobby scene.  
