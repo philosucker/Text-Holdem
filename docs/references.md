@@ -1,6 +1,6 @@
 # 참고문헌(references)
 
-## 홀덤 관련 참고문헌
+## 1. 홀덤 관련 참고문헌
 ### 1차 참고문헌 (TDA Official Rule)
 1. [TDA rules](https://www.dropbox.com/scl/fo/f7vqy37097o85tbu6dkgw/ANTjxd5_tA2l52pdZkKXPXY?e=1&preview=2022+Poker+TDA+Rules+Redlines+PDF+Longform+Vers+1.0.pdf&rlkey=f7625k2u3cv29p4bwe6x94njn&dl=0)
 제가 만든 Text_Holdem은 실물 칩에 관련된 규정을 제외한 TDA Rule의 모든 규정을 구현하였습니다.
@@ -49,4 +49,14 @@
 2. [카지노기구 기준](https://www.law.go.kr/%ED%96%89%EC%A0%95%EA%B7%9C%EC%B9%99/%EC%B9%B4%EC%A7%80%EB%85%B8%EA%B8%B0%EA%B5%AC%20%EA%B8%B0%EC%A4%80/(2023-38,20230711))
 
 
-## 게임 개발 관련 참고문헌
+## 2. 게임 개발 관련 참고문헌
+### 백엔드
+1. [FastAPI를 사용한 파이썬 웹 개발, 한빛미디어](https://product.kyobobook.co.kr/detail/S000201188332)
+ 
+2. [파이썬 FastAPI 개발 입문, 에이케이커뮤니케이션즈](https://product.kyobobook.co.kr/detail/S000212720196)
+   
+3. [게임 서버 프로그래밍 교과서, 길벗](https://product.kyobobook.co.kr/detail/S000001792817)
+
+4. [멀티플레이어 게임 프로그래밍, 길벗](https://product.kyobobook.co.kr/detail/S000001792473)
+  
+5. [게임 프로그래밍 패턴, 한빛미디어](https://product.kyobobook.co.kr/detail/S000001057705)
