@@ -2,7 +2,8 @@
 
 ## 1차 참고문헌 (TDA Official Rule)
 1. [TDA rules](https://www.dropbox.com/scl/fo/f7vqy37097o85tbu6dkgw/ANTjxd5_tA2l52pdZkKXPXY?e=1&preview=2022+Poker+TDA+Rules+Redlines+PDF+Longform+Vers+1.0.pdf&rlkey=f7625k2u3cv29p4bwe6x94njn&dl=0)
-
+제가 만든 Text_Holdem은 실물 칩에 관련된 규정을 제외한 TDA Rule의 모든 규정을 구현하였습니다.
+ 
 ## 2차 참고문헌 (WSOP Official Rule)
 1. [WSOP Online Game Rule](https://www.wsop.com/poker-games/texas-holdem/rules/)
 
