@@ -59,7 +59,12 @@
    
 4. [파이썬 비동기 라이브러리 Asyncio](https://product.kyobobook.co.kr/detail/S000001810381)
 
-   
+5. 기타 구글링  
+Multi Processing, Multi Threading,
+Concurrency Programming, Asynchronous Programming,
+Network(HTTP, WebSocket, RabbitMQ),
+Dastabase(MySQL, MongoDB)  
+
 ### Architecture
 1. [게임 서버 프로그래밍 교과서, 길벗](https://product.kyobobook.co.kr/detail/S000001792817)
 
