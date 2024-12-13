@@ -50,13 +50,24 @@
 
 
 ## 2. 게임 개발 관련 참고문헌
-### 백엔드
+### Backend
 1. [FastAPI를 사용한 파이썬 웹 개발, 한빛미디어](https://product.kyobobook.co.kr/detail/S000201188332)
  
 2. [파이썬 FastAPI 개발 입문, 에이케이커뮤니케이션즈](https://product.kyobobook.co.kr/detail/S000212720196)
-   
+
+3. [Building Data Science Applications with FastAPI, Packt Publishing](https://product.kyobobook.co.kr/detail/S000003532727)
+
+### Architecture
 3. [게임 서버 프로그래밍 교과서, 길벗](https://product.kyobobook.co.kr/detail/S000001792817)
 
 4. [멀티플레이어 게임 프로그래밍, 길벗](https://product.kyobobook.co.kr/detail/S000001792473)
   
 5. [게임 프로그래밍 패턴, 한빛미디어](https://product.kyobobook.co.kr/detail/S000001057705)
+
+### Unity
+1. [누구나 할 수 있는 유니티 2D 게임 제작, 제이펍](https://product.kyobobook.co.kr/detail/S000061838834)
+2. [유니티 교과서, 길벗](https://product.kyobobook.co.kr/detail/S000202434276)
+3. [게임 개발자가 알려주는 유니티 게임 제작 입문, 에이케이커뮤니케이션즈](https://product.kyobobook.co.kr/detail/S000203285049)
+4. [레트로의 유니티 게임 프로그래밍 에센스,한빛미디어](https://product.kyobobook.co.kr/detail/S000001810471)
+5. [절대강좌! 유니티, 위키북스](https://product.kyobobook.co.kr/detail/S000001766477)
+7. [초보자를 위한 유니티 입문, 한빛미디어](https://product.kyobobook.co.kr/detail/S000201321810)
