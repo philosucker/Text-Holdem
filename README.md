@@ -71,6 +71,14 @@
 ---
 ## Development Log  
 
+
+12.13.2024  
+- Completed establishing text_holdem house operating rules.  
+- Completed making implementation rules.  
+- Completed final design of Table scene.  
+- Completed final design of Lobby scene.  
+
+  
 ### Project Progress Summary
 
 #### House_1.0 : Current Features (From June to October 2024)
@@ -127,10 +135,10 @@ Fully mastered the rules of casino.
 
   
 10.25.2024  
-- Completed design of Table scene
+- Completed initial design of Table scene
   
 10.23.2024  
-- Completed design of Lobby scene
+- Completed initial design of Lobby scene
   
 10.08.2024  
 - Started UI Design
