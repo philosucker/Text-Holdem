@@ -67,7 +67,7 @@
 10. DevOps : Docker, Kubernetes  
 
 ### "How to implement Texas Holdem game? It's so complicated;("  
-#### I made reference for you:) Please refer to the documents in [docs]([https://github.com/philosucker/Text_Holdem/tree/main/docs](https://github.com/philosucker/TextHoldem/tree/main/docs)) directory  
+#### I made reference for you:) Please refer to the documents in [docs](https://github.com/philosucker/TextHoldem/tree/main/docs) directory  
 ---
 ## Development Log  
 
