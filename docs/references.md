@@ -27,8 +27,7 @@
 ## 5차 참고문헌 (해외 포커 게임 운영 사이트)
 1. [GGpoker](https://help.ggpoker.de/en-US/categories/Game_Related/Game_Information/Hold_em)
 
-2. [PokerStars] 
-https://www.pokerstars.ch/en/help/categories/poker/)
+2. [PokerStars](https://www.pokerstars.ch/en/help/categories/poker/)
 
 3. [ReplayPoker](https://replayhelp.casino.org/hc/en-us)
 
@@ -40,7 +39,7 @@ https://www.pokerstars.ch/en/help/categories/poker/)
 2. [윈조이포커](https://wpl.winjoygame.com/Holdem/Intro)
 
 ## 기타 참고
-[PokerTDA 포럼](https://www.pokertda.com/forum/index.php?board=25.60) 등, [Reddit](https://www.reddit.com/r/poker/comments/1lfl5e/can_someone_explain_buying_the_buttonmissed/?rdt=63867) 등, [Quora](https://www.quora.com/In-live-play-poker-when-moving-a-player-from-one-table-to-another-do-you-move-behind-the-dealer-or-the-next-big-blind) 등, Google
+[PokerTDA 포럼](https://www.pokertda.com/forum/index.php?board=25.60) 등, [Reddit](https://www.reddit.com/r/poker/comments/1lfl5e/can_someone_explain_buying_the_buttonmissed/?rdt=63867) 등, [Quora](https://www.quora.com/In-live-play-poker-when-moving-a-player-from-one-table-to-another-do-you-move-behind-the-dealer-or-the-next-big-blind) 등, 기타 Googling
 
 ## 국내 관련 법률 (국가법령정보센터)
 1. [게임산업진흥에 관한 법률 시행령](https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EA%B2%8C%EC%9E%84%EC%82%B0%EC%97%85%EC%A7%84%ED%9D%A5%EC%97%90%20%EA%B4%80%ED%95%9C%20%EB%B2%95%EB%A5%A0%20%EC%8B%9C%ED%96%89%EB%A0%B9)
