@@ -72,50 +72,21 @@
 ## Development Log  
 
 
+### 12.13.2024 Started development of "House_2.0".  
+    1. Implementing "Buy-in and Bank(safe) system" when joining to the table.
+    2. Implementing "Observer Mode" allowing users to spectate table without joining. 
+    3. Implementing "Seat Selection System" that players can manually select empty seats at a table.  
+    4. Implementing "Positioning Algorithm" which incorporates 'WSOP' and 'TDA' rules for seat positioning and action order at the start of a new hand.  
+    5. Implementing "Cash" table that actual ring game, in addition to the 'Sit and go tournament game' in House_1.0.
+    6. Implementing "Quick Join feature" that allow users to start playing immediately.
+    7. Implementing "Friend System" providing 'Private Sit-and-Go Tables' and 'direct message' to friends
+    8. Implementing "Penalty System" 
+
 12.13.2024  
-- Completed establishing text_holdem house_2.0 operating detailed rules.  
+- Completed establishing **Text Holdem** House_2.0 operating detailed rules.  
 - Completed making implementation rules.  
 - Completed final design of Table scene.  
 - Completed final design of Lobby scene.  
-
-  
-### Project Progress Summary
-
-#### House_1.0 : Current Features (From June to October 2024)
-
-1) NLHE Dealer Engine  
-  - A robust dealer engine for No-Limit Texas Hold'em.  
-  
-2) Sit and Go (SNG) Table  
-  - Automatic random seating; players cannot choose empty seats.  
-  - Dealer button moves clockwise by one position after each hand.  
-  - Games begin only when the table is full and restart once a game ends and the table fills again.  
-  
-3) Lobby System  
-  - Features table creation, joining, cancellation, and search functionality.  
-  
-4) Global Chat System  
-  - Allows players to communicate across the platform.
-
-  
-#### House_2.0: New Features and Enhancements (From December 2024 to January 2025)
-  
-1) Introduction of Buy-in and Bank Concepts.  
-2) Observer Mode
-  - Allows users to spectate games without actively participating.  
-4) Seat Selection System
-  - Players can now manually select empty seats at a table.  
-5) Updated Positioning and Action Rules
-  - Incorporates WSOP and TDA rules for seat positioning and action order at the start of a new hand.  
-5) Dual Gameplay Modes  
-  - Public Tables: Includes both Cash Games and Sit and Go formats.  
-    - Cash Games: Start with at least 3 players, allow mid-game entry, and restart at the end of each round.  
-  - Private Tables: Sit-and-Go Tournaments exclusively for invited players.  
-6) Quick Join Functionality  
-7) Friend System  
-  - Private Sit-and-Go Tables : Hosts and their invited friends can create exclusive games.   
-  - Direct Messaging Between Friends  
-8) Penalty System  
   
 12.04.2024  
 Fully mastered the rules of casino.  
@@ -152,7 +123,7 @@ Fully mastered the rules of casino.
 - Completed implementation of HTTP connection script between Unity Client and FastAPI Server(Reception)
 - Completed design of Enter scene
 
-### 09.23.2024 Started development of Unity application  
+### 09.23.2024 Started development of "Unity application"
 
     1. Reception-Client : application UI for user services 
     2. Floor-Client : application UI for floor services, lobby services, broadcasting services
@@ -162,7 +133,23 @@ Fully mastered the rules of casino.
     6. Build and Distribution test
     
 [break 09.13 ~ 09.22]  
-  
+
+
+### 09.13.2024 Completed development of "House_1.0".  
+    1) NLHE Dealer Engine  
+      - A robust dealer engine for No-Limit Texas Hold'em.  
+      
+    2) Sit and Go (SNG) Table  
+      - Automatic random seating; players cannot choose empty seats.  
+      - Dealer button moves clockwise by one position after each hand.  
+      - Games begin only when the table is full and restart once a game ends and the table fills again.  
+      
+    3) Lobby System  
+      - Features table creation, joining, cancellation, and search functionality.  
+      
+    4) Global Chat System  
+      - Allows players to communicate across the platform.
+      
 09.12.2024  
 
 - Schematic diagram of class connection structure  
@@ -231,7 +218,7 @@ Fully mastered the rules of casino.
 - Completed MicroService Architecture design.   
   <img src="https://github.com/user-attachments/assets/0a69cabd-80b6-4262-92fe-d7f274054019" width="1000" />   
 
-### 07.22.2024 Started development of the backend  
+### 07.22.2024 Started development of the backend (House_1.0).  
     1. Implementing reception, floor, and dealer server algorithms  
     2. Implementing server-client connections  
     3. Implementing communication between servers  
@@ -246,7 +233,7 @@ Fully mastered the rules of casino.
 - Started learning socket programming. (WebSocket)
 
 
-### 07.12.2024 Completed implementation of "dealer algorithm"
+### 07.12.2024 Completed implementation of "Texas Holdem dealer algorithm".  
   
 07.10.2024    
 - Completed implementation of "side pot" creation and management algorithm.    
@@ -274,7 +261,7 @@ Fully mastered the rules of casino.
 06.25.2024  
 - Completed implementation of “bet”, “raise”, “all-in”, “call”, “check”, and “fold action” algorithms.  
   
-### 06.24.2024 Started development of texas holdem dealer algorithm.  
+### 06.24.2024 Started development of "Texas Holdem dealer algorithm".  
     1. Implementing an algorithm that acts as a dealer in a Texas Hold'em game
     2. Implementing calculations of the types of actions a user can make each turn
     3. Implementing calculations of conditions for ending each street and hand
