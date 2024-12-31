@@ -71,9 +71,11 @@
 ---
 ## Development Log  
 
+12.31.2024  
+- Buy-in and Bank system, Observer Mode, Seat Selection system, Positioning algorithm, Sit-out system logic completed and reviewed. Pseudo code completed.
 
 ### 12.13.2024 Started development of "House_2.0".  
-    1. Implementing "Buy-in and Bank(safe) system" when joining to the table.
+    1. Implementing "Buy-in and Bank system" when joining to the table.
     2. Implementing "Observer Mode" allowing users to spectate table without joining. 
     3. Implementing "Seat Selection System" that players can manually select empty seats at a table.  
     4. Implementing "Positioning Algorithm" which incorporates 'WSOP' and 'TDA' rules for seat positioning and action order at the start of a new hand.  
