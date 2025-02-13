@@ -29,27 +29,32 @@
           2) Professional "Go"(Turn-Based Strategy Game) player Lee Sedol
                has also become a Holdem player as of June 2024.  
 ---
-### Project Plan (12 months)
+### Project Plan for developing application (12 months)
 1. 2 months **from April until June in 2024:**
    - Leaning Texas Holdem game.  
    - Studying Python programming, FastAPI and Unity.    
    - Designing overall architecture.    
 
 2. 4 months **from June until September in 2024:**    
-   - Develop a Texas Holdem Game Engine and Servers(House_1.0 version):  
-  
-     1) Game Engine : Texas holdem Dealer algorithm  
-     2) Game Servers : Back-end with FastAPI    Application UI with Unity.  
+   - Develop a Texas Holdem Game Engine and Servers:
+      
+     (House_1.0 version)  
+     1) Game Engine : Texas holdem Dealer algorithm    
+     2) Servers : Back-end with FastAPI  
       
 3. 2 months **from October until November in 2024**  
    - Designing UI and game scenes with Unity  
-   - Studying Casino rules (House_2.0 version)  
+   - Studying Casino rules  
   
-4. 2 months **from December 2024 until January 2025**  
-   - Upgrade Game Engines (Upgrade from House_1.0 to House_2.0)  
+4. 2 months **from December 2024 until February 2025**  
+   - Upgrade Game Engines and Servers from House_1.0 to House_2.0  
+
+6. 1 month **from March until April 2025**  
    - Develop client for Mobile Application  
+   - Deploying Text-Holdem Application
   
-5. 2 months **from From February to April in 2025**
+### Project Plan for developing AI agent  
+5. After Deploying  
    - Develop an AI Agent for Holdem application:  
 
      1) Utilize LLM APIs to create an LLM model for playing Holdem.  
