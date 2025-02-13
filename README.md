@@ -46,8 +46,9 @@
    - Designing UI and game scenes with Unity  
    - Studying Casino rules  
   
-4. 2 months **from December 2024 until February 2025**  
-   - Upgrade Game Engines and Servers from House_1.0 to House_2.0  
+4. 2 months **from December 2024 until February 2025**
+      
+   - Upgrade Game Engines and Servers (House_2.0 version)  
 
 6. 1 month **from March until April 2025**  
    - Develop client for Mobile Application  
