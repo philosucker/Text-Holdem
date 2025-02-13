@@ -69,8 +69,11 @@
 ### "How to implement Texas Holdem game? It's so complicated;("  
 #### I made reference for you:) Please refer to the documents in [docs](https://github.com/philosucker/TextHoldem/tree/main/docs) directory  
 ---
-## Development Log  
 
+## Development Log  
+02.13.2025  
+- Completed implementation of Positioning algorithm for Cash and SNG
+  
 12.31.2024  
 - Buy-in and Bank system, Observer Mode, Seat Selection system, Positioning algorithm, Sit-out system logic completed and reviewed. Pseudo code completed.
 
