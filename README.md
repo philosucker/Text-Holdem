@@ -46,11 +46,12 @@
    - Designing UI and game scenes with Unity  
    - Studying Casino rules  
   
-4. 2 months **from December 2024 until February 2025**
+4. 2 months **from December 2024 until March 2025**
       
-   - Upgrade Game Engines and Servers (House_2.0 version)  
-
-6. 1 month **from March until April 2025**  
+   - Upgrade Game Engines and Servers (House_2.0 version)   
+    
+6. 1 month **from March until April 2025**
+   - Upgrade Game Engines and Servers (House_3.0 version)  
    - Develop client for Mobile Application  
    - Deploying Text-Holdem Application
   
@@ -77,9 +78,21 @@
 ---
 
 ## Development Log  
-02.13.2025  
-- Completed implementation of Positioning algorithm for Cash and SNG
+### 03.11.2025 Started development of "House_3.0".  
+    1. Implementing "Tier-Point System" for SNG tournament level structure.  
+    2. Implementing "Ranking System" for Cash game.  
+
+03.10.2025  
+- Completed establishing **Text Holdem** House_3.0 operating detailed rules.  
+- Completed making implementation rules.  
   
+02.24.2025  
+- completed implementation of "Observer Mode"  
+- completed implementation of "Seat Selection System"  
+
+02.13.2025  
+- Completed implementation of Positioning algorithm for Cash and SNG  
+   
 12.31.2024  
 - Buy-in and Bank system, Observer Mode, Seat Selection system, Positioning algorithm, Sit-out system logic completed and reviewed. Pseudo code completed.
 
