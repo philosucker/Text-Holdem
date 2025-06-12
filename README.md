@@ -29,7 +29,7 @@
           2) Professional "Go"(Turn-Based Strategy Game) player Lee Sedol
                has also become a Holdem player as of June 2024.  
 ---
-### Project Plan for developing application (12 months)
+### Project Progress
 1. 2 months **from April until June in 2024:**
    - Leaning Texas Holdem game.  
    - Studying Python programming, FastAPI and Unity.    
@@ -78,6 +78,7 @@
 ---
 
 ## Development Log  
+![시스템 구성도](https://drive.google.com/file/d/1VMK-opM7OqkN5PD0wVP01fQ3e0Ct6Jqk/view?usp=sharing)
  <img src="https://drive.google.com/file/d/1VMK-opM7OqkN5PD0wVP01fQ3e0Ct6Jqk/view?usp=sharing" width="1000" />   
 ### 03.11.2025 Started development of "House_3.0".  
     1. Implementing "Tier-Point System" for SNG tournament level structure.  
