@@ -78,8 +78,8 @@
 ---
 
 ## Development Log  
-![시스템 구성도](https://drive.google.com/file/d/1VMK-opM7OqkN5PD0wVP01fQ3e0Ct6Jqk/view?usp=sharing)
- <img src="https://drive.google.com/file/d/1VMK-opM7OqkN5PD0wVP01fQ3e0Ct6Jqk/view?usp=sharing" width="1000" />   
+![시스템 구성도]([https://drive.google.com/file/d/1VMK-opM7OqkN5PD0wVP01fQ3e0Ct6Jqk/view?usp=sharing](https://drive.google.com/file/d/1VMK-opM7OqkN5PD0wVP01fQ3e0Ct6Jqk/view?usp=drive_link))
+
 ### 03.11.2025 Started development of "House_3.0".  
     1. Implementing "Tier-Point System" for SNG tournament level structure.  
     2. Implementing "Ranking System" for Cash game.  
